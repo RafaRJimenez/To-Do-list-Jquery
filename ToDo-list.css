@@ -1,0 +1,25 @@
+
+#everything, #done {
+	border: 1px solid black;
+	width: 400px;
+	height: 400px;
+	background-color: #ccc;
+}
+
+
+.item {
+	background-color: #5b11f5;
+	margin: 5px 0;
+	font-size: 25px;
+	cursor: pointer;
+}
+
+.already-done {
+	background-color: red;
+}
+
+.removing {
+	background-color: #339b8b;
+	text-align: center;
+	cursor: pointer;
+}
